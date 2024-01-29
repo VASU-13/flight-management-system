@@ -1,0 +1,12 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: flight-search-service
+  data:
+    mongodb:
+      uri: mongodb+srv://<username>:<password>@<clustername>.ywcubz4.mongodb.net/<dbname>?retryWrites=true&w=majority
+
+
+
