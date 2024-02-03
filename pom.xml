@@ -18,6 +18,7 @@
     <modules>
         <module>flight-service</module>
         <module>flight-search-service</module>
+        <module>booking-service</module>
     </modules>
 
     <properties>

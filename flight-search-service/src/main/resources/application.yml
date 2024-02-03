@@ -6,7 +6,7 @@ spring:
     name: flight-search-service
   data:
     mongodb:
-      uri: mongodb+srv://<username>:<password>@<clustername>.ywcubz4.mongodb.net/<dbname>?retryWrites=true&w=majority
+      uri: mongodb+srv://root:uM5ZxGuvOqZD0gbX@flight-search.ywcubz4.mongodb.net/flight-search?retryWrites=true&w=majority
 
 
 
